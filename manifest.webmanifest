@@ -1,0 +1,18 @@
+{
+  "name": "Academic",
+  "short_name": "Academic",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/sebastn/portfolio-website/tree/master/docs/media/icon_hu15bd352fec682aba2849b3c4c2de3311_16526_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/sebastn/portfolio-website/tree/master/docs/media/icon_hu15bd352fec682aba2849b3c4c2de3311_16526_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/sebastn/portfolio-website/tree/master/docs/?utm_source=web_app_manifest"
+}
