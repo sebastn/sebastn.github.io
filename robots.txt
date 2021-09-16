@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://github.com/sebastn/portfolio-website/tree/master/docs/sitemap.xml
+Sitemap: sitemap.xml

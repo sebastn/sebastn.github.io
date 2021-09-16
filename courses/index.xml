@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Academic</title>
-    <link>https://github.com/sebastn/portfolio-website/tree/master/docs/courses/</link>
-      <atom:link href="https://github.com/sebastn/portfolio-website/tree/master/docs/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/</link>
+      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/sebastn/portfolio-website/tree/master/docs/media/icon_hu15bd352fec682aba2849b3c4c2de3311_16526_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu15bd352fec682aba2849b3c4c2de3311_16526_512x512_fill_lanczos_center_3.png</url>
       <title>Courses</title>
-      <link>https://github.com/sebastn/portfolio-website/tree/master/docs/courses/</link>
+      <link>/courses/</link>
     </image>
     
   </channel>

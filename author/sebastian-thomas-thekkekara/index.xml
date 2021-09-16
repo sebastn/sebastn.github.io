@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Thomas Thekkekara | Academic</title>
-    <link>https://github.com/sebastn/portfolio-website/tree/master/docs/author/sebastian-thomas-thekkekara/</link>
-      <atom:link href="https://github.com/sebastn/portfolio-website/tree/master/docs/author/sebastian-thomas-thekkekara/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/sebastian-thomas-thekkekara/</link>
+      <atom:link href="/author/sebastian-thomas-thekkekara/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Thomas Thekkekara</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/sebastn/portfolio-website/tree/master/docs/author/sebastian-thomas-thekkekara/avatar_hu8cdac1c4a7f2aa68f79e86b101b62084_461120_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/sebastian-thomas-thekkekara/avatar_hu8cdac1c4a7f2aa68f79e86b101b62084_461120_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sebastian Thomas Thekkekara</title>
-      <link>https://github.com/sebastn/portfolio-website/tree/master/docs/author/sebastian-thomas-thekkekara/</link>
+      <link>/author/sebastian-thomas-thekkekara/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://github.com/sebastn/portfolio-website/tree/master/docs/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://github.com/sebastn/portfolio-website/tree/master/docs/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://github.com/sebastn/portfolio-website/tree/master/docs/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/sebastn/portfolio-website/tree/master/docs/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -105,9 +105,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://github.com/sebastn/portfolio-website/tree/master/docs/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/sebastn/portfolio-website/tree/master/docs/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -169,9 +169,9 @@ date: 2019-09-01
     
     <item>
       <title>An example journal article</title>
-      <link>https://github.com/sebastn/portfolio-website/tree/master/docs/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://github.com/sebastn/portfolio-website/tree/master/docs/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -188,9 +188,9 @@ date: 2019-09-01
     
     <item>
       <title>An example conference paper</title>
-      <link>https://github.com/sebastn/portfolio-website/tree/master/docs/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://github.com/sebastn/portfolio-website/tree/master/docs/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
